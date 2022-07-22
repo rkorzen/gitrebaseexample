@@ -10,7 +10,9 @@
 
 ## Dodaję ten tekst na github
 
-## Dodaję ten log:
+## Git pull origin main
+
+## Dodaję ten log 
 
     $ git log
 
@@ -25,4 +27,10 @@
     Date:   Fri Jul 22 21:22:07 2022 +0200
 
         add README.md
+
+## git push 
+
+## Remote changes
+
+
 
